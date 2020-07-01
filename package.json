@@ -28,11 +28,13 @@
   "author": "Jason Miller <jason@developit.ca>",
   "license": "MIT",
   "dependencies": {
+    "aws-amplify": "^3.0.18",
     "body-parser": "^1.13.3",
     "compression": "^1.5.2",
     "cors": "^2.7.1",
     "express": "^4.13.3",
     "morgan": "^1.8.0",
+    "node-fetch": "^2.6.0",
     "resource-router-middleware": "^0.6.0"
   },
   "devDependencies": {
