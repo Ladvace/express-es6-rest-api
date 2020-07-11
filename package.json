@@ -29,13 +29,16 @@
   "license": "MIT",
   "dependencies": {
     "aws-amplify": "^3.0.18",
-    "body-parser": "^1.13.3",
+    "aws-sdk": "^2.708.0",
+    "body-parser": "^1.19.0",
     "compression": "^1.5.2",
     "cors": "^2.7.1",
     "express": "^4.13.3",
+    "express-fileupload": "^1.1.7-alpha.3",
     "morgan": "^1.8.0",
     "node-fetch": "^2.6.0",
-    "resource-router-middleware": "^0.6.0"
+    "resource-router-middleware": "^0.6.0",
+    "uuid": "^8.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.9.0",
